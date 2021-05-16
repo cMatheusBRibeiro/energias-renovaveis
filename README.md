@@ -8,7 +8,6 @@ Este repositório é dedicado ao trabalho sobre energias renováveis.
 - Desenvolvimento
   - Eólica
   - Hidráulica
-  - Nuclear
   - Solar
 - Conclusão
 - Fontes Bibliográficas
@@ -32,10 +31,6 @@ Em 1997 foi feito o Protocolo de Quioto, que é um tratado internacional com com
 
 
 ### Energia Hidráulica
-
-
-
-### Energia Nuclear
 
 
 
