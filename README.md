@@ -7,7 +7,7 @@ Este repositório é dedicado ao trabalho sobre energias renováveis.
 - Introdução
 - Desenvolvimento  
 - Eólica  
-- Hidráulica  
+- Hidrelétrica  
 - Solar
 - Geotérmica
 - Bioenergia
@@ -48,7 +48,7 @@ Moinhos de vento - transformada em energia mecânica e utilizada na moagem de gr
 Velas - mover os barcos impulsionados pelo vento.
 
 
-### Hidroelétrica
+### Hidrelétrica
 
 
 
