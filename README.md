@@ -49,6 +49,14 @@ Velas - mover os barcos impulsionados pelo vento.
 
 
 ### Hidrelétrica
+A energia hidrelétrica é o aproveitamento da energia cinética contida no fluxo de massas de água. 
+
+A energia cinética promove a rotação das pás das turbinas que compõem o sistema da usina hidrelétrica para, posteriormente, ser transformada em energia elétrica pelo gerador do sistema.
+
+Para a produção de energia hidrelétrica é necessário que exista a integração da vazão do rio, do desnível do terreno (naturais ou não) e quantidade de água disponível.
+
+E para o aproveitamento da energia cinética contida no fluxo de massas de água, a energia cinética promove a rotação das pás das turbinas que compõem o sistema da usina hidrelétrica para, posteriormente, ser transformada em energia elétrica pelo gerador do sistema.
+![image](https://user-images.githubusercontent.com/64761996/118422377-a397ca80-b6b2-11eb-9151-7031d99830b4.png)
 
 
 
