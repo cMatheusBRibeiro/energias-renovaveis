@@ -79,6 +79,13 @@ Este fato torna a energia geotérmica uma opção atraente para fornecimento de 
 
 ### Maremotriz
 
+Energia maremotriz, ou energia das marés, é o modo de geração de energia por meio do movimento das marés. 
+
+Dois tipos de energia maremotriz podem ser obtidos: energia cinética das correntes devido às marés e energia potencial pela diferença de altura entre as marés alta e baixa.
+
+Assim, respeitando o ciclo das marés e após a construção de um tipo de barragem com comportas e turbinas hidráulicas, há a formação de um reservatório junto ao mar que, quando a maré é alta, é preenchido e rotacionado por uma espécie de uma turbina hidráulica, que proporciona a produção de energia elétrica. Se a maré está baixa e a água deixa o reservatório, mesmo assim a energia elétrica é produzida.
+
+É uma energia renovável e limpa, já que sua fonte nunca se esgota e não tem impacto ambiental durante sua produção e aproveitamento.
 
 ### Hidrogênio
 
@@ -91,3 +98,4 @@ Este fato torna a energia geotérmica uma opção atraente para fornecimento de 
 - [Eólica] (http://abeeolica.org.br/dados-abeeolica/)
 - [Solar] (https://www.portalsolar.com.br/)
 - [Geotérmica] (https://www.ecycle.com.br/8349-energia-geotermica.html/)
+- [Maremotriz] (http://esferaenergia.com.br/blog/o-que-energia-maremotriz/)
