@@ -11,7 +11,7 @@ Este repositório é dedicado ao trabalho sobre energias renováveis.
 - Solar
 - Geotérmica
 - Bioenergia (Etanol, Biodiesel e Biogás)
-- Maré motriz
+- Maremotriz
 - Hidrogênio
 - Fontes Bibliográficas
 
