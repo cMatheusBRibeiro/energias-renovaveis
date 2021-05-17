@@ -48,11 +48,11 @@ Moinhos de vento - transformada em energia mecânica e utilizada na moagem de gr
 Velas - mover os barcos impulsionados pelo vento.
 
 
-### Energia Hidráulica
+### Hidroelétrica
 
 
 
-### Energia Solar
+### Solar
 
 A Energia Solar no Brasil corresponde a 1,7% de toda a matriz energética brasileira, sendo a energia solar residencial responsável por 72,6% do montante, seguida por empresas de comércio e serviços (17,99%) e pela energia solar rural (6,25%).
 
@@ -117,3 +117,4 @@ Estudos revelam que o hidrogênio será fundamental na produção energética mu
 - [Geotérmica] (https://www.ecycle.com.br/8349-energia-geotermica.html/)
 - [Maremotriz] (http://esferaenergia.com.br/blog/o-que-energia-maremotriz/)
 - [Hidrogênio] (http://www.airproducts.com.br/Industries/Energy/Hydrogen-Energy.aspx)
+- [Bioenergia] (https://www.ecycle.com.br/6034-bioenergia.html)
