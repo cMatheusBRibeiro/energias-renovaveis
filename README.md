@@ -89,6 +89,13 @@ Assim, respeitando o ciclo das marés e após a construção de um tipo de barra
 
 ### Hidrogênio
 
+O Hidrogênio pode ser produzido de fontes e tecnologias renováveis, como hidráulica, solar ou eólica, e torna-se um combustível renovável. Pode também ser gerado da gaseificação do bagaço da cana-de-açúcar, ou de fontes fósseis, como o gás natural, a nafta e outros hidrocarbonetos.
+
+O hidrogênio é considerado o combustível do futuro por ser uma fonte de energia renovável, inesgotável e não poluente, que trará benefícios para toda a humanidade, e o mais importante: para o meio ambiente.
+
+No estado natural e sob condições normais, o hidrogênio é um gás incolor, inodoro e insípido, quando é queimado com oxigênio puro, os únicos produtos são calor e água. Indústrias Petrolíferas estudam a adoção desse elemento para gerar energia elétrica e como combustível veicular.
+
+Estudos revelam que o hidrogênio será fundamental na produção energética mundial dos próximos anos, devido às emissões de gases do efeito estufa na atmosfera e o aquecimento global, que precisam urgentemente de redução.
 
 
 ## Fontes Bibliográficas
@@ -99,3 +106,4 @@ Assim, respeitando o ciclo das marés e após a construção de um tipo de barra
 - [Solar] (https://www.portalsolar.com.br/)
 - [Geotérmica] (https://www.ecycle.com.br/8349-energia-geotermica.html/)
 - [Maremotriz] (http://esferaenergia.com.br/blog/o-que-energia-maremotriz/)
+- [Hidrogênio] (http://www.airproducts.com.br/Industries/Energy/Hydrogen-Energy.aspx)
