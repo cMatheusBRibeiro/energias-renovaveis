@@ -10,7 +10,7 @@ Este repositório é dedicado ao trabalho sobre energias renováveis.
 - Hidráulica  
 - Solar
 - Geotérmica
-- Bioenergia (Etanol, Biodiesel e Biogás)
+- Bioenergia
 - Maremotriz
 - Hidrogênio
 - Fontes Bibliográficas
@@ -74,8 +74,18 @@ Em comparação com outras fontes renováveis, o calor geotérmico é vantajoso,
 Este fato torna a energia geotérmica uma opção atraente para fornecimento de energia sustentável. Somado a esta ideia, tem o fato da energia geotérmica ser considerada uma forma limpa e ecológica de energia, ao permitir a geração e a venda de eletricidade com baixa emissão de poluentes nocivos na atmosfera.
 
 
-### Bioenergia (Etanol, Biodiesel e Biogás)
+### Bioenergia
 
+A Bioenergia é o nome dado à energia obtida por meio da biomassa (matéria orgânica produzida pelos seres vivos e utilizada para geração energética). Essa energia resultante pode ser utilizada na produção de calor, eletricidade e combustíveis. É uma fonte de energia renovável que gera poucos poluentes, sendo, portanto, uma boa alternativa para as fontes de energia convencionais.
+
+Obtida através da matéria orgânica de origem vegetal ou animal utilizada para produção de energia, que pode ser empregada na produção de calor, combustíveis, eletricidade, entre outros. É considerada uma fonte de energia renovável, limpa e de baixo custo.
+
+As principais fontes para produção de bioenergia provêm de matérias-primas renováveis, como:
+- Madeira
+- Produtos agrícolas (milho, cereais)
+- Dejetos orgânicos (serragem, lixo orgânico)
+- Bagaço da cana-de-açúcar
+- Vegetais e frutas
 
 ### Maremotriz
 
