@@ -27,7 +27,7 @@ Atualmente temos dois tipos de fontes de energia, sendo elas as *Não Renovávei
 
 As energias seguem uma única ideia, a transformação de algo em energia. Com isso, pode-se definir que as energias não renováveis são em uma única direção, ou seja, não podem ser revertidas, a exemplo de combustão de carvão. Já as renováveis podem ser revertidas ou a fonte deles não é transformada, mas sim o que ela gera, pode-se dar de exemplo a energia solar.
 
-Em 1997 foi feito o Protocolo de Quioto, que é um tratado internacional com compromissos mais rígidos para a redução da emissão dos gases que produzem o efeito estufa. Com esse tratado, foi necessário buscar alternativas para reduzir a emissão de poluentes, ou seja, buscar fontes renováveis de energia. Aqui temos descritivos de algumas energia renovável.
+Em 1997 foi feito o Protocolo de Quioto, que é um tratado internacional com compromissos mais rígidos para a redução da emissão dos gases que produzem o efeito estufa. Com esse tratado, foi necessário buscar alternativas para reduzir a emissão de poluentes, ou seja, buscar fontes renováveis de energia. Aqui temos descritivos de algumas energias renováveis.
 
 
 ### Energia Eólica
