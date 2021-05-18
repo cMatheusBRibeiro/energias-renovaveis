@@ -114,6 +114,10 @@ No estado natural e sob condições normais, o hidrogênio é um gás incolor, i
 
 Estudos revelam que o hidrogênio será fundamental na produção energética mundial dos próximos anos, devido às emissões de gases do efeito estufa na atmosfera e o aquecimento global, que precisam urgentemente de redução.
 
+## Conclusão
+
+Como foi possível visualizar, atualmente temos várias fontes renováveis que podem substituir as energias não renováveis de hoje de forma segura e, principalmente, com a possibilidade de ser menos poluente para o meio ambiente.
+
 
 ## Fontes Bibliográficas
 
