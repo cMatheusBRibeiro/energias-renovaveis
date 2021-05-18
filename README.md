@@ -32,15 +32,21 @@ Em 1997 foi feito o Protocolo de Quioto, que é um tratado internacional com com
 
 ### Energia Eólica
 
+![eolica1](./imagens/energia-eolica.jpg)
+
 A Energia Eólica é o aproveitamento da energia dos ventos transformando em energia útil. 
 
 A Energia Eólica atingiu em 2021 a marca de 18 GW de capacidade instalada, 10,3% da matriz elétrica nacional. 
+
+![eolica2](./imagens/energia-eolica2.jpg)
 
 E de acordo com dados apresentados pela Associação Brasileira da Energia Eólica, são 695 parques e mais de 8.300 aerogeradores.  
 
 Há uma década atrás o segmento ainda contava com menos de 1 GW de capacidade e hoje é a segunda maior, ficando atrás apenas da hidrelétrica que possui 58,7% do parque instalado no país.
 
 Além dos bons ventos brasileiros, tivemos a dedicação em implantar novas tecnologias no Brasil.
+
+![eolica3](./imagens/energia-eolica3.jpg)
 
 Formas mais comumente utilizadas:
 Aerogeradores – são grandes turbinas instaladas em lugares com muito vento.
@@ -50,29 +56,46 @@ Velas - mover os barcos impulsionados pelo vento.
 
 ### Hidrelétrica
 
+![hidreletrica1](./imagens/Hidreletrica1.jpeg)
+
 A energia hidrelétrica é o aproveitamento da energia cinética contida no fluxo de massas de água. 
 
 A energia cinética promove a rotação das pás das turbinas que compõem o sistema da usina hidrelétrica para, posteriormente, ser transformada em energia elétrica pelo gerador do sistema.
+
+![hidreletrica2](./imagens/Hidreletrica2.jpeg)
 
 Para a produção de energia hidrelétrica é necessário que exista a integração da vazão do rio, do desnível do terreno (naturais ou não) e quantidade de água disponível.
 
 E para o aproveitamento da energia cinética contida no fluxo de massas de água, a energia cinética promove a rotação das pás das turbinas que compõem o sistema da usina hidrelétrica para, posteriormente, ser transformada em energia elétrica pelo gerador do sistema.
 
+![hidreletrica3](./imagens/Hidreletrica3.jpeg)
 
 ### Solar
 
+![solar1](./imagens/solar1.jpg)
+
 A Energia Solar no Brasil corresponde a 1,7% de toda a matriz energética brasileira, sendo a energia solar residencial responsável por 72,6% do montante, seguida por empresas de comércio e serviços (17,99%) e pela energia solar rural (6,25%).
+
+![solar2](./imagens/solar2.jpg)
 
 O uso da energia solar fotovoltaica no Brasil atingiu 30 mil imóveis em todo o País, alcançando a potência instalada de 4.460 MW e obtendo um crescimento de 45% em relação a 2018.
 
+![solar3](./imagens/solar3.jpg)
+
 A Energia Solar no Brasil tem sido utilizada como auxiliar na economia da conta de luz, na redução da sobrecarga de redes distribuidoras e na diminuição de impactos ambientais, seja em residências, estabelecimentos comerciais ou indústrias.
+
+![solar4](./imagens/solar4.jpg)
 
 Tornando-se cada vez mais comum, é possível aproveitar a energia solar por meio da energia térmica, aquecendo água, ou com a energia fotovoltaica, gerando eletricidade e trazendo a vantagem de preservar o meio ambiente, além de gerar empregos em todo o território nacional.
 
 
 ### Geotérmica
 
+![geotermica1](./imagens/geotermica1.jpg)
+
 A energia geotérmica é o aproveitamento do calor proveniente da Terra, mais especificamente do seu interior. Tendo em vista a necessidade de produzir-se energia elétrica de forma mais limpa e em quantidades cada vez maiores, foi desenvolvido um modo de usufruir desse calor para a geração de eletricidade.
+
+![geotermica2](./imagens/geotermica2.jpg)
 
 Métodos avançados de perfuração encontram-se em desenvolvimento, visando aumentar a exploração dessa fonte e reduzir os custos provenientes das perdas de maquinários. 
 
@@ -80,12 +103,19 @@ Em comparação com outras fontes renováveis, o calor geotérmico é vantajoso,
 
 Este fato torna a energia geotérmica uma opção atraente para fornecimento de energia sustentável. Somado a esta ideia, tem o fato da energia geotérmica ser considerada uma forma limpa e ecológica de energia, ao permitir a geração e a venda de eletricidade com baixa emissão de poluentes nocivos na atmosfera.
 
+![geotermica3](./imagens/geotermica3.png)
 
 ### Bioenergia
 
+![Bioenergia2](./imagens/Bioenergia2.jpg)
+
 A Bioenergia é o nome dado à energia obtida por meio da biomassa (matéria orgânica produzida pelos seres vivos e utilizada para geração energética). Essa energia resultante pode ser utilizada na produção de calor, eletricidade e combustíveis. É uma fonte de energia renovável que gera poucos poluentes, sendo, portanto, uma boa alternativa para as fontes de energia convencionais.
 
+![Bioenergia3](./imagens/Bioenergia3.jpg)
+
 Obtida através da matéria orgânica de origem vegetal ou animal utilizada para produção de energia, que pode ser empregada na produção de calor, combustíveis, eletricidade, entre outros. É considerada uma fonte de energia renovável, limpa e de baixo custo.
+
+![Bioenergia1](./imagens/Bioenergia1.jpg)
 
 As principais fontes para produção de bioenergia provêm de matérias-primas renováveis, como:
 - Madeira
@@ -94,21 +124,33 @@ As principais fontes para produção de bioenergia provêm de matérias-primas r
 - Bagaço da cana-de-açúcar
 - Vegetais e frutas
 
+![Bioenergia4](./imagens/Bioenergia4.jpg)
+
 ### Maremotriz
+
+![maremotriz1](./imagens/maremotriz1.jpg)
 
 Energia maremotriz, ou energia das marés, é o modo de geração de energia por meio do movimento das marés. 
 
 Dois tipos de energia maremotriz podem ser obtidos: energia cinética das correntes devido às marés e energia potencial pela diferença de altura entre as marés alta e baixa.
 
+![maremotriz2](./imagens/maremotriz2.jpg)
+
 Assim, respeitando o ciclo das marés e após a construção de um tipo de barragem com comportas e turbinas hidráulicas, há a formação de um reservatório junto ao mar que, quando a maré é alta, é preenchido e rotacionado por uma espécie de uma turbina hidráulica, que proporciona a produção de energia elétrica. Se a maré está baixa e a água deixa o reservatório, mesmo assim a energia elétrica é produzida.
 
 É uma energia renovável e limpa, já que sua fonte nunca se esgota e não tem impacto ambiental durante sua produção e aproveitamento.
 
+![maremotriz3](./imagens/maremotriz3.jpg)
+
 ### Hidrogênio
+
+![hidrogenio](./imagens/hidrogenio.jpg)
 
 O Hidrogênio pode ser produzido de fontes e tecnologias renováveis, como hidráulica, solar ou eólica, e torna-se um combustível renovável. Pode também ser gerado da gaseificação do bagaço da cana-de-açúcar, ou de fontes fósseis, como o gás natural, a nafta e outros hidrocarbonetos.
 
 O hidrogênio é considerado o combustível do futuro por ser uma fonte de energia renovável, inesgotável e não poluente, que trará benefícios para toda a humanidade, e o mais importante: para o meio ambiente.
+
+![hidrogenio2](./imagens/hidrogenio2.jpg)
 
 No estado natural e sob condições normais, o hidrogênio é um gás incolor, inodoro e insípido, quando é queimado com oxigênio puro, os únicos produtos são calor e água. Indústrias Petrolíferas estudam a adoção desse elemento para gerar energia elétrica e como combustível veicular.
 
